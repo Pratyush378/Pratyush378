@@ -21,7 +21,7 @@ Improving my data structures & algorithms for coding interviews and competitive 
 </a>
 <a href="https://leetcode.com/Pratyush3012" target="_blank">
   <img
-    src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)"
+    src="[[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)"
     alt="LeetCode"
     width="26"
     height="26"
