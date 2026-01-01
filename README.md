@@ -16,6 +16,8 @@ Improving my data structures & algorithms for coding interviews and competitive 
   <img
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
     alt="Instagram"
+    width="26"
+    height="26"
   />
 </a>
 <a href="https://leetcode.com/Pratyush3012" target="_blank">
