@@ -14,7 +14,7 @@ Improving my data structures & algorithms for coding interviews and competitive 
 
 <a href="https://www.instagram.com/pratyush3011" target="_blank">
   <img
-    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
     alt="Instagram"
   />
 </a>
