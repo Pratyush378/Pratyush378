@@ -10,9 +10,18 @@ Building responsive frontend projects using HTML, CSS and JavaScript, and polish
 Improving my data structures & algorithms for coding interviews and competitive programming, while also exploring backend development for future open source contributions (APIs, databases, and basic server-side concepts).
 
 ### 📫 How to reach me:
+### 📫 How to reach me:
+
 <a href="https://www.instagram.com/pratyush3011" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
 </a>
 <a href="https://leetcode.com/Pratyush3012" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="LeetCode"
+  />
 </a>
+>
