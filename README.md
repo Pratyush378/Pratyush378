@@ -9,8 +9,7 @@ Building responsive frontend projects using HTML, CSS and JavaScript, and polish
 ### 🌱 I’m currently learning:
 Improving my data structures & algorithms for coding interviews and competitive programming, while also exploring backend development for future open source contributions (APIs, databases, and basic server-side concepts).
 
-### 📫 How to reach me:
-### 📫 How to reach me:
+### 📫 Connect with me:
 
 <a href="https://www.instagram.com/pratyush3011" target="_blank">
   <img
@@ -22,8 +21,18 @@ Improving my data structures & algorithms for coding interviews and competitive 
 </a>
 <a href="https://leetcode.com/Pratyush3012" target="_blank">
   <img
-    src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+    src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)"
     alt="LeetCode"
+    width="26"
+    height="26"
   />
 </a>
->
+<a href="https://www.linkedin.com/in/pratyusho" target="_blank">
+  <img
+    src="https://www.linkedin.com/in/pratyusho/"
+    alt="Linkedin"
+    width="26"
+    height="26"
+  />
+</a>
+
