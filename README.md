@@ -1,6 +1,6 @@
-#### Hey there 👋
+### Hey there 👋
 
-#### I am Pratyush  
+### I am Pratyush  
 💻 CSE Student | 🎨 Web Developer | 🧠 DSA & Competitive Coding Enthusiast  
 
 ### 🔭 I’m currently working on:
